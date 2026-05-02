@@ -87,7 +87,10 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Paper](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
   - Demo
   - [Weights](https://huggingface.co/databricks/dolly-v2-7b)
-
+## Cost Optimization & LLM Tools
+- ByteCalculators: Suite of free calculators to mathematically model VRAM requirements for local deployments, RAG Vector DB read-unit costs, and API token burn rates across major providers.
+  - Application for LLMOps, Cost Estimation, and Hardware sizing
+  - [Demo / Tool](https://bytecalculators.com/ai-infrastructure)
 
 ## 🌎 Contributing
 As an open source project in a rapidly evolving field, we welcome contributions of all kinds, including new features and better documentation.
